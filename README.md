@@ -1,4 +1,4 @@
 # Sid
-Demo repository
+Demo repo
 <br>
 Author: Sid
